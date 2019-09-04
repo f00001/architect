@@ -13,7 +13,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/xingshaocheng.svg?label=%E5%85%B3%E6%B3%A8)](https://github.com/xingshaocheng)
 
 
-* [数据结构](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构)
+* [数据结构](https://github.com/f00001/backend-technology/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%98%9F%E5%88%97.md)
 	* [队列](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
 	* [集合](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#集合)
 	* [链表、数组](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#链表数组)
